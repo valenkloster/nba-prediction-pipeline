@@ -1,0 +1,15 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualization (for EDA)
+matplotlib
+seaborn
+
+# Machine learning basics (used for preprocessing / later model input)
+scikit-learn
+
+# Jupyter notebook environment
+jupyterlab
+notebook
+ipykernel
